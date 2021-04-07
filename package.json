@@ -9,7 +9,7 @@
     "develop": "cross-env NODE_OPTIONS=\"-r esm\" gatsby develop",
     "start": "npm run develop",
     "serve": "gatsby serve",
-    "clean": "gatsby clean",  
+    "clean": "gatsby clean",
     "netlify": "netlify dev",
     "prebuild": "netlify-lambda install"
   },
@@ -31,7 +31,7 @@
     "gatsby-source-sanity": "^6.0.4",
     "isomorphic-fetch": "^3.0.0",
     "netlify-cli": "^2.62.0",
-    "netlify-lambda": "^2.0.1",
+    "netlify-lambda": "^2.0.3",
     "normalize.css": "^8.0.1",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
