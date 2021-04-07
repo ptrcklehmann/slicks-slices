@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[5],{XJ9o:function(n,e,t){"use strict";t.r(e),t.d(e,"default",(function(){return a}));var u=t("q1tI"),o=t.n(u);function a(){return o.a.createElement("div",null,o.a.createElement("p",null,"404 - page not found"))}}}]);
+//# sourceMappingURL=component---src-pages-pizzas-page-js-dd60ffd617f6833db3b4.js.map
