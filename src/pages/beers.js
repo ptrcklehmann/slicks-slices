@@ -1,9 +1,10 @@
 import React from 'react';
+import Layout from '../components/Layout';
 
 export default function HomePage() {
   return (
-    <div>
+    <Layout>
       <h2>Beer's Page</h2>
-    </div>
+    </Layout>
   );
 }

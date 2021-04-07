@@ -9,7 +9,7 @@
     "develop": "cross-env NODE_OPTIONS=\"-r esm\" gatsby develop",
     "start": "npm run develop",
     "serve": "gatsby serve",
-    "clean": "gatsby clean",
+    "clean": "gatsby clean",  
     "netlify": "netlify dev",
     "prebuild": "netlify-lambda install"
   },
