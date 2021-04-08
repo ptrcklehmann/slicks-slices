@@ -10,7 +10,7 @@ export default {
   fields: [
     {
       name: 'name',
-      title: 'Pizza Name',
+      title: 'Topping Name',
       type: 'string',
       description: 'What is the name of the topping?',
     },
