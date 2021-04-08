@@ -1,12 +1,12 @@
 (function webpackUniversalModuleDefinition(root, factory) {
 	if(typeof exports === 'object' && typeof module === 'object')
-		module.exports = factory(require("/Users/patricklehmann/Documents/GitHub/slicks-slices/node_modules/@reach/router/index.js"), require("fs"), require("/Users/patricklehmann/Documents/GitHub/slicks-slices/node_modules/lodash/concat.js"), require("/Users/patricklehmann/Documents/GitHub/slicks-slices/node_modules/lodash/flatten.js"), require("/Users/patricklehmann/Documents/GitHub/slicks-slices/node_modules/lodash/get.js"), require("/Users/patricklehmann/Documents/GitHub/slicks-slices/node_modules/lodash/isObject.js"), require("/Users/patricklehmann/Documents/GitHub/slicks-slices/node_modules/lodash/merge.js"), require("/Users/patricklehmann/Documents/GitHub/slicks-slices/node_modules/lodash/uniqBy.js"), require("path"), require("react"), require("react-dom/server"));
+		module.exports = factory(require("/Users/patricklehmann/Documents/GitHub/pizza-slicks-slices/slicks-slices/node_modules/@reach/router/index.js"), require("fs"), require("/Users/patricklehmann/Documents/GitHub/pizza-slicks-slices/slicks-slices/node_modules/lodash/concat.js"), require("/Users/patricklehmann/Documents/GitHub/pizza-slicks-slices/slicks-slices/node_modules/lodash/flatten.js"), require("/Users/patricklehmann/Documents/GitHub/pizza-slicks-slices/slicks-slices/node_modules/lodash/get.js"), require("/Users/patricklehmann/Documents/GitHub/pizza-slicks-slices/slicks-slices/node_modules/lodash/isObject.js"), require("/Users/patricklehmann/Documents/GitHub/pizza-slicks-slices/slicks-slices/node_modules/lodash/merge.js"), require("/Users/patricklehmann/Documents/GitHub/pizza-slicks-slices/slicks-slices/node_modules/lodash/uniqBy.js"), require("path"), require("react"), require("react-dom/server"));
 	else if(typeof define === 'function' && define.amd)
-		define("lib", ["/Users/patricklehmann/Documents/GitHub/slicks-slices/node_modules/@reach/router/index.js", "fs", "/Users/patricklehmann/Documents/GitHub/slicks-slices/node_modules/lodash/concat.js", "/Users/patricklehmann/Documents/GitHub/slicks-slices/node_modules/lodash/flatten.js", "/Users/patricklehmann/Documents/GitHub/slicks-slices/node_modules/lodash/get.js", "/Users/patricklehmann/Documents/GitHub/slicks-slices/node_modules/lodash/isObject.js", "/Users/patricklehmann/Documents/GitHub/slicks-slices/node_modules/lodash/merge.js", "/Users/patricklehmann/Documents/GitHub/slicks-slices/node_modules/lodash/uniqBy.js", "path", "react", "react-dom/server"], factory);
+		define("lib", ["/Users/patricklehmann/Documents/GitHub/pizza-slicks-slices/slicks-slices/node_modules/@reach/router/index.js", "fs", "/Users/patricklehmann/Documents/GitHub/pizza-slicks-slices/slicks-slices/node_modules/lodash/concat.js", "/Users/patricklehmann/Documents/GitHub/pizza-slicks-slices/slicks-slices/node_modules/lodash/flatten.js", "/Users/patricklehmann/Documents/GitHub/pizza-slicks-slices/slicks-slices/node_modules/lodash/get.js", "/Users/patricklehmann/Documents/GitHub/pizza-slicks-slices/slicks-slices/node_modules/lodash/isObject.js", "/Users/patricklehmann/Documents/GitHub/pizza-slicks-slices/slicks-slices/node_modules/lodash/merge.js", "/Users/patricklehmann/Documents/GitHub/pizza-slicks-slices/slicks-slices/node_modules/lodash/uniqBy.js", "path", "react", "react-dom/server"], factory);
 	else if(typeof exports === 'object')
-		exports["lib"] = factory(require("/Users/patricklehmann/Documents/GitHub/slicks-slices/node_modules/@reach/router/index.js"), require("fs"), require("/Users/patricklehmann/Documents/GitHub/slicks-slices/node_modules/lodash/concat.js"), require("/Users/patricklehmann/Documents/GitHub/slicks-slices/node_modules/lodash/flatten.js"), require("/Users/patricklehmann/Documents/GitHub/slicks-slices/node_modules/lodash/get.js"), require("/Users/patricklehmann/Documents/GitHub/slicks-slices/node_modules/lodash/isObject.js"), require("/Users/patricklehmann/Documents/GitHub/slicks-slices/node_modules/lodash/merge.js"), require("/Users/patricklehmann/Documents/GitHub/slicks-slices/node_modules/lodash/uniqBy.js"), require("path"), require("react"), require("react-dom/server"));
+		exports["lib"] = factory(require("/Users/patricklehmann/Documents/GitHub/pizza-slicks-slices/slicks-slices/node_modules/@reach/router/index.js"), require("fs"), require("/Users/patricklehmann/Documents/GitHub/pizza-slicks-slices/slicks-slices/node_modules/lodash/concat.js"), require("/Users/patricklehmann/Documents/GitHub/pizza-slicks-slices/slicks-slices/node_modules/lodash/flatten.js"), require("/Users/patricklehmann/Documents/GitHub/pizza-slicks-slices/slicks-slices/node_modules/lodash/get.js"), require("/Users/patricklehmann/Documents/GitHub/pizza-slicks-slices/slicks-slices/node_modules/lodash/isObject.js"), require("/Users/patricklehmann/Documents/GitHub/pizza-slicks-slices/slicks-slices/node_modules/lodash/merge.js"), require("/Users/patricklehmann/Documents/GitHub/pizza-slicks-slices/slicks-slices/node_modules/lodash/uniqBy.js"), require("path"), require("react"), require("react-dom/server"));
 	else
-		root["lib"] = factory(root["/Users/patricklehmann/Documents/GitHub/slicks-slices/node_modules/@reach/router/index.js"], root["fs"], root["/Users/patricklehmann/Documents/GitHub/slicks-slices/node_modules/lodash/concat.js"], root["/Users/patricklehmann/Documents/GitHub/slicks-slices/node_modules/lodash/flatten.js"], root["/Users/patricklehmann/Documents/GitHub/slicks-slices/node_modules/lodash/get.js"], root["/Users/patricklehmann/Documents/GitHub/slicks-slices/node_modules/lodash/isObject.js"], root["/Users/patricklehmann/Documents/GitHub/slicks-slices/node_modules/lodash/merge.js"], root["/Users/patricklehmann/Documents/GitHub/slicks-slices/node_modules/lodash/uniqBy.js"], root["path"], root["react"], root["react-dom/server"]);
+		root["lib"] = factory(root["/Users/patricklehmann/Documents/GitHub/pizza-slicks-slices/slicks-slices/node_modules/@reach/router/index.js"], root["fs"], root["/Users/patricklehmann/Documents/GitHub/pizza-slicks-slices/slicks-slices/node_modules/lodash/concat.js"], root["/Users/patricklehmann/Documents/GitHub/pizza-slicks-slices/slicks-slices/node_modules/lodash/flatten.js"], root["/Users/patricklehmann/Documents/GitHub/pizza-slicks-slices/slicks-slices/node_modules/lodash/get.js"], root["/Users/patricklehmann/Documents/GitHub/pizza-slicks-slices/slicks-slices/node_modules/lodash/isObject.js"], root["/Users/patricklehmann/Documents/GitHub/pizza-slicks-slices/slicks-slices/node_modules/lodash/merge.js"], root["/Users/patricklehmann/Documents/GitHub/pizza-slicks-slices/slicks-slices/node_modules/lodash/uniqBy.js"], root["path"], root["react"], root["react-dom/server"]);
 })(this, function(__WEBPACK_EXTERNAL_MODULE__reach_router__, __WEBPACK_EXTERNAL_MODULE_fs__, __WEBPACK_EXTERNAL_MODULE_lodash_concat__, __WEBPACK_EXTERNAL_MODULE_lodash_flatten__, __WEBPACK_EXTERNAL_MODULE_lodash_get__, __WEBPACK_EXTERNAL_MODULE_lodash_isObject__, __WEBPACK_EXTERNAL_MODULE_lodash_merge__, __WEBPACK_EXTERNAL_MODULE_lodash_uniqBy__, __WEBPACK_EXTERNAL_MODULE_path__, __WEBPACK_EXTERNAL_MODULE_react__, __WEBPACK_EXTERNAL_MODULE_react_dom_server__) {
 return /******/ (function(modules) { // webpackBootstrap
 /******/ 	// The module cache
@@ -111,8 +111,7 @@ const { hot } = __webpack_require__(/*! react-hot-loader/root */ "./node_modules
 exports.ssrComponents = {
   "component---cache-dev-404-page-js": hot(preferDefault(__webpack_require__(/*! ./.cache/dev-404-page.js */ "./.cache/dev-404-page.js"))),
   "component---src-pages-404-js": hot(preferDefault(__webpack_require__(/*! ./src/pages/404.js */ "./src/pages/404.js"))),
-  "component---src-pages-index-js": hot(preferDefault(__webpack_require__(/*! ./src/pages/index.js */ "./src/pages/index.js"))),
-  "component---src-pages-order-js": hot(preferDefault(__webpack_require__(/*! ./src/pages/order.js */ "./src/pages/order.js")))
+  "component---src-pages-index-js": hot(preferDefault(__webpack_require__(/*! ./src/pages/index.js */ "./src/pages/index.js")))
   }
 
 
@@ -31525,29 +31524,10 @@ function HomePage() {
 
 /***/ }),
 
-/***/ "./src/pages/order.js":
-/*!****************************!*\
-  !*** ./src/pages/order.js ***!
-  \****************************/
-/*! exports provided: default */
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-__webpack_require__.r(__webpack_exports__);
-/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "default", function() { return HomePage; });
-/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react */ "react");
-/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
-
-function HomePage() {
-  return /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(react__WEBPACK_IMPORTED_MODULE_0___default.a.Fragment, null, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h2", null, "Order's Page"));
-}
-
-/***/ }),
-
 /***/ "@reach/router":
-/*!***********************************************************************************************************!*\
-  !*** external "/Users/patricklehmann/Documents/GitHub/slicks-slices/node_modules/@reach/router/index.js" ***!
-  \***********************************************************************************************************/
+/*!*******************************************************************************************************************************!*\
+  !*** external "/Users/patricklehmann/Documents/GitHub/pizza-slicks-slices/slicks-slices/node_modules/@reach/router/index.js" ***!
+  \*******************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -31567,9 +31547,9 @@ module.exports = __WEBPACK_EXTERNAL_MODULE_fs__;
 /***/ }),
 
 /***/ "lodash/concat":
-/*!*****************************************************************************************************!*\
-  !*** external "/Users/patricklehmann/Documents/GitHub/slicks-slices/node_modules/lodash/concat.js" ***!
-  \*****************************************************************************************************/
+/*!*************************************************************************************************************************!*\
+  !*** external "/Users/patricklehmann/Documents/GitHub/pizza-slicks-slices/slicks-slices/node_modules/lodash/concat.js" ***!
+  \*************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -31578,9 +31558,9 @@ module.exports = __WEBPACK_EXTERNAL_MODULE_lodash_concat__;
 /***/ }),
 
 /***/ "lodash/flatten":
-/*!******************************************************************************************************!*\
-  !*** external "/Users/patricklehmann/Documents/GitHub/slicks-slices/node_modules/lodash/flatten.js" ***!
-  \******************************************************************************************************/
+/*!**************************************************************************************************************************!*\
+  !*** external "/Users/patricklehmann/Documents/GitHub/pizza-slicks-slices/slicks-slices/node_modules/lodash/flatten.js" ***!
+  \**************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -31589,9 +31569,9 @@ module.exports = __WEBPACK_EXTERNAL_MODULE_lodash_flatten__;
 /***/ }),
 
 /***/ "lodash/get":
-/*!**************************************************************************************************!*\
-  !*** external "/Users/patricklehmann/Documents/GitHub/slicks-slices/node_modules/lodash/get.js" ***!
-  \**************************************************************************************************/
+/*!**********************************************************************************************************************!*\
+  !*** external "/Users/patricklehmann/Documents/GitHub/pizza-slicks-slices/slicks-slices/node_modules/lodash/get.js" ***!
+  \**********************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -31600,9 +31580,9 @@ module.exports = __WEBPACK_EXTERNAL_MODULE_lodash_get__;
 /***/ }),
 
 /***/ "lodash/isObject":
-/*!*******************************************************************************************************!*\
-  !*** external "/Users/patricklehmann/Documents/GitHub/slicks-slices/node_modules/lodash/isObject.js" ***!
-  \*******************************************************************************************************/
+/*!***************************************************************************************************************************!*\
+  !*** external "/Users/patricklehmann/Documents/GitHub/pizza-slicks-slices/slicks-slices/node_modules/lodash/isObject.js" ***!
+  \***************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -31611,9 +31591,9 @@ module.exports = __WEBPACK_EXTERNAL_MODULE_lodash_isObject__;
 /***/ }),
 
 /***/ "lodash/merge":
-/*!****************************************************************************************************!*\
-  !*** external "/Users/patricklehmann/Documents/GitHub/slicks-slices/node_modules/lodash/merge.js" ***!
-  \****************************************************************************************************/
+/*!************************************************************************************************************************!*\
+  !*** external "/Users/patricklehmann/Documents/GitHub/pizza-slicks-slices/slicks-slices/node_modules/lodash/merge.js" ***!
+  \************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -31622,9 +31602,9 @@ module.exports = __WEBPACK_EXTERNAL_MODULE_lodash_merge__;
 /***/ }),
 
 /***/ "lodash/uniqBy":
-/*!*****************************************************************************************************!*\
-  !*** external "/Users/patricklehmann/Documents/GitHub/slicks-slices/node_modules/lodash/uniqBy.js" ***!
-  \*****************************************************************************************************/
+/*!*************************************************************************************************************************!*\
+  !*** external "/Users/patricklehmann/Documents/GitHub/pizza-slicks-slices/slicks-slices/node_modules/lodash/uniqBy.js" ***!
+  \*************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
