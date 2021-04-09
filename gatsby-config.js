@@ -1,8 +1,9 @@
-import dotenv from 'dotenv';
-
-dotenv.config({ path: '.env' });
+require('dotenv').config({
+  path: `.env.${process.env.NODE_ENV}`,
+})
 
 module.exports = {
+  
   siteMetadata: {
     title: `Slicks Slices`,
     siteUrl: 'https://gatsby.pizza',

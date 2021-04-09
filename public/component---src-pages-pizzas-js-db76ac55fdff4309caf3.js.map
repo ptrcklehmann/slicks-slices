@@ -1,1 +1,0 @@
-{"version":3,"sources":["webpack:///./src/pages/pizzas.js"],"names":["FourohFour"],"mappings":"2FAAA,wEAEe,SAASA,IACtB,OACE,oCACE","file":"component---src-pages-pizzas-js-db76ac55fdff4309caf3.js","sourcesContent":["import React from 'react';\n\nexport default function FourohFour() {\n  return (\n    <>\n      <h2>Pizza's Page</h2>\n    </>\n  );\n}\n"],"sourceRoot":""}

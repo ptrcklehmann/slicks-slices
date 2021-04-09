@@ -1,1 +1,0 @@
-{"version":3,"sources":["webpack:///./src/pages/BeersPage.js"],"names":["HomePage"],"mappings":"6FAAA,wEAEe,SAASA,IACtB,OACE,6BACE","file":"component---src-pages-beers-page-js-e02476972c2df17e3739.js","sourcesContent":["import React from 'react';\n\nexport default function HomePage() {\n  return (\n    <div>\n      <h2>home page</h2>\n    </div>\n  );\n}\n"],"sourceRoot":""}

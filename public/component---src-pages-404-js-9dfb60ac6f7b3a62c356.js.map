@@ -1,1 +1,0 @@
-{"version":3,"sources":["webpack:///./src/pages/404.js"],"names":["FourohFour"],"mappings":"2FAAA,wEAEe,SAASA,IACtB,OACE,6BACE","file":"component---src-pages-404-js-9dfb60ac6f7b3a62c356.js","sourcesContent":["import React from 'react';\n\nexport default function FourohFour() {\n  return (\n    <div>\n      <p>404 - page not found</p>\n    </div>\n  );\n}\n"],"sourceRoot":""}
