@@ -1,4 +1,10 @@
-var plugins = []
+var plugins = [{
+      plugin: require('/Users/patricklehmann/Documents/GitHub/pizza-slicks-slices/slicks-slices/node_modules/gatsby-plugin-styled-components/gatsby-ssr'),
+      options: {"plugins":[],"displayName":true,"fileName":true,"minify":true,"namespace":"","transpileTemplateLiterals":true,"pure":false},
+    },{
+      plugin: require('/Users/patricklehmann/Documents/GitHub/pizza-slicks-slices/slicks-slices/node_modules/gatsby-source-sanity/gatsby-ssr'),
+      options: {"plugins":[],"projectId":"0o16dm0m","apiVersion":"2021-04-09","dataset":"producao","watchMode":true,"token":"sk7OYpSzl0ose9JsE2LCsSK0A4CJbF6Tbqz3H8OsVjmvOPg6O9R3BBdau1MJSULjWSBPoqkipTKiH4Bwzi5GM0OGwc8yiVzfA0UQx2XHbcNJZ1dKpqxGFCnZTySOt69uszOuiZLoFSUN8HDHTqwLU0elI1p5X5iB7rCbgoafRiRwClWL2rrb"},
+    }]
 // During bootstrap, we write requires at top of this file which looks like:
 // var plugins = [
 //   {

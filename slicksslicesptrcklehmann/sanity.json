@@ -1,11 +1,11 @@
 {
   "root": true,
-  "project": {
-    "name": "slicks-slices-ptrcklehmann"
-  },
   "api": {
     "projectId": "0o16dm0m",
     "dataset": "producao"
+  },
+  "project": {
+    "name": "slicksslicesptrcklehmann"
   },
   "plugins": [
     "@sanity/base",
@@ -25,6 +25,10 @@
     {
       "name": "part:@sanity/base/schema",
       "path": "./schemas/schema"
+    },
+    {
+      "name": "part:@sanity/desk-tool/structure",
+      "path": "./sidebar.js"
     }
   ]
 }

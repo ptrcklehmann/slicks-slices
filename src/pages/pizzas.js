@@ -1,9 +1,38 @@
+import { graphql } from 'gatsby';
 import React from 'react';
+import PizzaList from '../components/PizzaList'
 
-export default function FourohFour() {
+export default function PizzaPage({ data }) {
+  console.log(data.pizzas)
+  const pizzas = data.pizzas.nodes
   return (
     <>
-      <h2>Pizza's Page</h2>
+      <PizzaList pizzas={pizzas} />
     </>
   );
 }
+
+export const query = graphql`
+query PizzaQuery {
+  pizzas: allSanityPizza {
+    nodes {
+      id
+      name
+      price
+      slug {
+        current
+      }
+      toppings {
+        id
+        name
+      }
+      image {
+				asset {
+					fluid(maxWidth: 400) {
+						...GatsbySanityImageFluid
+          }
+        }
+      }
+    }
+  }
+}`;

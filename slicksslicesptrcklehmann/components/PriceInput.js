@@ -5,9 +5,9 @@ function createPatchFrom(value) {
   return PatchEvent.from(value === '' ? unset() : set(Number(value)));
 }
 
-const formatMoney = Intl.NumberFormat('en-CA', {
+const formatMoney = Intl.NumberFormat('en-DE', {
   style: 'currency',
-  currency: 'CAD',
+  currency: 'EUR',
 }).format;
 
 export default function PriceInput({ type, value, onChange, inputComponent }) {
