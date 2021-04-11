@@ -56,6 +56,7 @@ const NavStyles = styled.nav`
     border-bottom: 2px solid var(--grey);
     padding-bottom: 2rem;
     ul {
+      margin-top: 4rem;
       grid-template-rows: auto auto;
       grid-template-columns: repeat(var(--columns), 1fr);
       justify-items: center;
