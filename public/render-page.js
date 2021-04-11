@@ -33758,6 +33758,17 @@ function v(){return(v=Object.assign||function(e){for(var t=1;t<arguments.length;
 
 /***/ }),
 
+/***/ "./public/page-data/sq/d/2929599075.json":
+/*!***********************************************!*\
+  !*** ./public/page-data/sq/d/2929599075.json ***!
+  \***********************************************/
+/*! exports provided: data, default */
+/***/ (function(module) {
+
+module.exports = JSON.parse("{\"data\":{\"toppings\":{\"nodes\":[{\"name\":\"Olives\",\"id\":\"-df853e0e-577a-5957-97a6-51b981a35e99\",\"vegetarian\":true},{\"name\":\"Sweet Potato\",\"id\":\"-24172224-463b-5c2c-bce1-e480e50a8164\",\"vegetarian\":true},{\"name\":\"Pulled Pork\",\"id\":\"-ee1f5dc6-05a6-52ea-a1e9-c82decac035c\",\"vegetarian\":null},{\"name\":\"Spinach\",\"id\":\"-40f793c2-82ea-570f-963a-2d9d53a461b6\",\"vegetarian\":true},{\"name\":\"Soppressata\",\"id\":\"-e03ff7e9-f949-5a6f-88cd-fd8f05c27c44\",\"vegetarian\":null},{\"name\":\"Bacon\",\"id\":\"-f8b72c13-088c-500b-9a8a-85af02f18d21\",\"vegetarian\":null},{\"name\":\"Ground Beef\",\"id\":\"-29b45fb5-54ba-55ba-bc6b-93ac9d902ada\",\"vegetarian\":null},{\"name\":\"Pear\",\"id\":\"-32aaff87-a747-55d9-8c5d-74b2459feba3\",\"vegetarian\":true},{\"name\":\"Chicken\",\"id\":\"-1f0aaed0-15c3-5f7d-b006-25c3d8436417\",\"vegetarian\":null},{\"name\":\"Tomatoes\",\"id\":\"-09309caa-8978-5b0f-97fb-a16a7af507ee\",\"vegetarian\":true},{\"name\":\"Sausage\",\"id\":\"-0f4a4a4a-7581-57bd-af9c-195209ad1f15\",\"vegetarian\":false},{\"name\":\"Honey\",\"id\":\"-fdac4688-514d-5957-8303-618af96593f9\",\"vegetarian\":true},{\"name\":\"Basil\",\"id\":\"-9c4e5998-ec77-55cf-b219-54a7414c2038\",\"vegetarian\":true},{\"name\":\"Sardine oil\",\"id\":\"-98776df2-b6f4-54ae-a3a0-01ff1a1fa789\",\"vegetarian\":null},{\"name\":\"Squash\",\"id\":\"-efc15178-f914-516e-8337-71fd6118b704\",\"vegetarian\":true},{\"name\":\"Avocado Crema\",\"id\":\"-e367ffee-2bcc-56d4-a06e-693913b8f2f4\",\"vegetarian\":true},{\"name\":\"Roasted Garlic\",\"id\":\"-9c789dcf-b5b6-53f3-a16d-fdfd796b31a1\",\"vegetarian\":true},{\"name\":\"Peppers\",\"id\":\"-0d1700a1-3c82-5cae-b330-8f0c4926a0db\",\"vegetarian\":true},{\"name\":\"Shredded Lettuce\",\"id\":\"-2e962b4a-8733-5faa-aafc-6d3cb612e9b0\",\"vegetarian\":true},{\"name\":\"Ham\",\"id\":\"-01ccad40-7569-5b7c-aa60-3210c1c25662\",\"vegetarian\":null},{\"name\":\"Truffle\",\"id\":\"-26175a0d-e2fa-5378-aac6-6afe18a22575\",\"vegetarian\":true},{\"name\":\"Steak\",\"id\":\"-d2c8fb72-4359-5b54-ab17-e10578cc619c\",\"vegetarian\":null},{\"name\":\"Chimichurri\",\"id\":\"-4a9d24d2-5028-5c1d-8619-dd317b2b2379\",\"vegetarian\":true},{\"name\":\"Vegan Pepperoi\",\"id\":\"-ceecca40-a97a-5093-9910-7cb425396f20\",\"vegetarian\":true},{\"name\":\"Hot Peppers\",\"id\":\"-1730df62-f5af-540d-a9d3-919313dc8b7b\",\"vegetarian\":true},{\"name\":\"Pepperoni\",\"id\":\"-ef946fd4-1adc-5200-8668-dfd1d61dc3a9\",\"vegetarian\":null},{\"name\":\"Vegan Cheese\",\"id\":\"-1d6ac23b-a4f2-5638-aaa2-6336098803ef\",\"vegetarian\":true},{\"name\":\"Pineapple\",\"id\":\"-4f039c1f-2bc4-5f04-85ea-74b42a458201\",\"vegetarian\":true},{\"name\":\"Onions\",\"id\":\"-2f8ce1a9-a95a-55a6-bb95-3a5f29773ae1\",\"vegetarian\":null},{\"name\":\"Mushrooms\",\"id\":\"-38868f80-13cd-56f4-9275-ba8836612e49\",\"vegetarian\":true}]},\"pizzas\":{\"nodes\":[{\"toppings\":[{\"name\":\"Vegan Pepperoi\",\"id\":\"-ceecca40-a97a-5093-9910-7cb425396f20\"},{\"name\":\"Vegan Cheese\",\"id\":\"-1d6ac23b-a4f2-5638-aaa2-6336098803ef\"},{\"name\":\"Peppers\",\"id\":\"-0d1700a1-3c82-5cae-b330-8f0c4926a0db\"},{\"name\":\"Basil\",\"id\":\"-9c4e5998-ec77-55cf-b219-54a7414c2038\"}]},{\"toppings\":[{\"name\":\"Pineapple\",\"id\":\"-4f039c1f-2bc4-5f04-85ea-74b42a458201\"},{\"name\":\"Ham\",\"id\":\"-01ccad40-7569-5b7c-aa60-3210c1c25662\"},{\"name\":\"Hot Peppers\",\"id\":\"-1730df62-f5af-540d-a9d3-919313dc8b7b\"}]},{\"toppings\":[{\"name\":\"Chimichurri\",\"id\":\"-4a9d24d2-5028-5c1d-8619-dd317b2b2379\"},{\"name\":\"Squash\",\"id\":\"-efc15178-f914-516e-8337-71fd6118b704\"},{\"name\":\"Mushrooms\",\"id\":\"-38868f80-13cd-56f4-9275-ba8836612e49\"},{\"name\":\"Roasted Garlic\",\"id\":\"-9c789dcf-b5b6-53f3-a16d-fdfd796b31a1\"}]},{\"toppings\":[{\"name\":\"Truffle\",\"id\":\"-26175a0d-e2fa-5378-aac6-6afe18a22575\"},{\"name\":\"Roasted Garlic\",\"id\":\"-9c789dcf-b5b6-53f3-a16d-fdfd796b31a1\"},{\"name\":\"Mushrooms\",\"id\":\"-38868f80-13cd-56f4-9275-ba8836612e49\"}]},{\"toppings\":[{\"name\":\"Soppressata\",\"id\":\"-e03ff7e9-f949-5a6f-88cd-fd8f05c27c44\"},{\"name\":\"Honey\",\"id\":\"-fdac4688-514d-5957-8303-618af96593f9\"}]},{\"toppings\":[{\"name\":\"Chicken\",\"id\":\"-1f0aaed0-15c3-5f7d-b006-25c3d8436417\"},{\"name\":\"Onions\",\"id\":\"-2f8ce1a9-a95a-55a6-bb95-3a5f29773ae1\"},{\"name\":\"Hot Peppers\",\"id\":\"-1730df62-f5af-540d-a9d3-919313dc8b7b\"}]},{\"toppings\":[{\"name\":\"Roasted Garlic\",\"id\":\"-9c789dcf-b5b6-53f3-a16d-fdfd796b31a1\"},{\"name\":\"Mushrooms\",\"id\":\"-38868f80-13cd-56f4-9275-ba8836612e49\"},{\"name\":\"Onions\",\"id\":\"-2f8ce1a9-a95a-55a6-bb95-3a5f29773ae1\"},{\"name\":\"Truffle\",\"id\":\"-26175a0d-e2fa-5378-aac6-6afe18a22575\"}]},{\"toppings\":[{\"name\":\"Steak\",\"id\":\"-d2c8fb72-4359-5b54-ab17-e10578cc619c\"},{\"name\":\"Sardine oil\",\"id\":\"-98776df2-b6f4-54ae-a3a0-01ff1a1fa789\"},{\"name\":\"Chimichurri\",\"id\":\"-4a9d24d2-5028-5c1d-8619-dd317b2b2379\"}]},{\"toppings\":[{\"name\":\"Hot Peppers\",\"id\":\"-1730df62-f5af-540d-a9d3-919313dc8b7b\"},{\"name\":\"Avocado Crema\",\"id\":\"-e367ffee-2bcc-56d4-a06e-693913b8f2f4\"},{\"name\":\"Shredded Lettuce\",\"id\":\"-2e962b4a-8733-5faa-aafc-6d3cb612e9b0\"},{\"name\":\"Ground Beef\",\"id\":\"-29b45fb5-54ba-55ba-bc6b-93ac9d902ada\"}]},{\"toppings\":[{\"name\":\"Pulled Pork\",\"id\":\"-ee1f5dc6-05a6-52ea-a1e9-c82decac035c\"},{\"name\":\"Pepperoni\",\"id\":\"-ef946fd4-1adc-5200-8668-dfd1d61dc3a9\"},{\"name\":\"Bacon\",\"id\":\"-f8b72c13-088c-500b-9a8a-85af02f18d21\"},{\"name\":\"Sausage\",\"id\":\"-0f4a4a4a-7581-57bd-af9c-195209ad1f15\"}]},{\"toppings\":[{\"name\":\"Peppers\",\"id\":\"-0d1700a1-3c82-5cae-b330-8f0c4926a0db\"},{\"name\":\"Olives\",\"id\":\"-df853e0e-577a-5957-97a6-51b981a35e99\"},{\"name\":\"Basil\",\"id\":\"-9c4e5998-ec77-55cf-b219-54a7414c2038\"},{\"name\":\"Tomatoes\",\"id\":\"-09309caa-8978-5b0f-97fb-a16a7af507ee\"}]},{\"toppings\":[{\"name\":\"Pear\",\"id\":\"-32aaff87-a747-55d9-8c5d-74b2459feba3\"},{\"name\":\"Sweet Potato\",\"id\":\"-24172224-463b-5c2c-bce1-e480e50a8164\"},{\"name\":\"Spinach\",\"id\":\"-40f793c2-82ea-570f-963a-2d9d53a461b6\"},{\"name\":\"Honey\",\"id\":\"-fdac4688-514d-5957-8303-618af96593f9\"}]}]}}}");
+
+/***/ }),
+
 /***/ "./src/components/PizzaList.js":
 /*!*************************************!*\
   !*** ./src/components/PizzaList.js ***!
@@ -33805,6 +33816,100 @@ function PizzaList({
     key: pizza.id,
     pizza: pizza
   })));
+}
+
+/***/ }),
+
+/***/ "./src/components/ToppingsFilter.js":
+/*!******************************************!*\
+  !*** ./src/components/ToppingsFilter.js ***!
+  \******************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "default", function() { return ToppingsFilter; });
+/* harmony import */ var _public_page_data_sq_d_2929599075_json__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ../../public/page-data/sq/d/2929599075.json */ "./public/page-data/sq/d/2929599075.json");
+var _public_page_data_sq_d_2929599075_json__WEBPACK_IMPORTED_MODULE_0___namespace = /*#__PURE__*/__webpack_require__.t(/*! ../../public/page-data/sq/d/2929599075.json */ "./public/page-data/sq/d/2929599075.json", 1);
+/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! react */ "react");
+/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_1__);
+/* harmony import */ var gatsby__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! gatsby */ "./.cache/gatsby-browser-entry.js");
+/* harmony import */ var styled_components__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! styled-components */ "./node_modules/styled-components/dist/styled-components.esm.js");
+
+
+
+
+const ToppingsStyles = styled_components__WEBPACK_IMPORTED_MODULE_3__["default"].div`
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+  margin-bottom: 4rem;
+  a {
+    display: grid;
+    grid-template-columns: auto 1fr;
+    grid-gap: 0 1rem;
+    align-items: center;
+    padding: 5px;
+    background: var(--grey);
+    border-radius: 2px;
+    .count {
+      background: white;
+      padding: 2px 5px;
+    }
+    .active {
+      background: var(--yellow);
+    }
+  }
+`;
+
+function countPizzasInToppings(pizzas) {
+  // Return the pizzas with counts
+  const counts = pizzas.map(pizza => pizza.toppings).flat().reduce((acc, topping) => {
+    // check if this is an existing topping
+    const existingTopping = acc[topping.id];
+
+    if (existingTopping) {
+      console.log('Existing Topping', existingTopping.name); //  if it is, increment by 1
+
+      existingTopping.count += 1;
+    } else {
+      console.log('New Topping', topping.name); // otherwise create a new entry in our acc and set it to one
+
+      acc[topping.id] = {
+        id: topping.id,
+        name: topping.name,
+        count: 1
+      };
+    }
+
+    return acc;
+  }, {}); // sort them based on their count
+
+  const sortedToppings = Object.values(counts).sort((a, b) => b.count - a.count);
+  return sortedToppings;
+}
+
+function ToppingsFilter() {
+  // Get a list of all the toppings
+  // Get a list of all the Pizzas with their toppings
+  const {
+    toppings,
+    pizzas
+  } = _public_page_data_sq_d_2929599075_json__WEBPACK_IMPORTED_MODULE_0__.data; // Count how many pizzas are in each topping
+
+  const toppingsWithCounts = countPizzasInToppings(pizzas.nodes);
+  console.log(toppingsWithCounts); // Loop over the list of toppings and display the topping and the count of pizzas in that topping
+  // Link it up.. ...  . . .
+
+  return /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement(ToppingsStyles, null, toppingsWithCounts.map(topping => /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement(gatsby__WEBPACK_IMPORTED_MODULE_2__["Link"], {
+    to: `/topping/${topping.name}`,
+    key: topping.id
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("span", {
+    className: "name"
+  }, topping.name), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("span", {
+    className: "count"
+  }, topping.count))));
 }
 
 /***/ }),
@@ -33860,6 +33965,8 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react */ "react");
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
 /* harmony import */ var _components_PizzaList__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ../components/PizzaList */ "./src/components/PizzaList.js");
+/* harmony import */ var _components_ToppingsFilter__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../components/ToppingsFilter */ "./src/components/ToppingsFilter.js");
+
 
 
 function PizzaPage({
@@ -33867,7 +33974,7 @@ function PizzaPage({
 }) {
   console.log(data.pizzas);
   const pizzas = data.pizzas.nodes;
-  return /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(react__WEBPACK_IMPORTED_MODULE_0___default.a.Fragment, null, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_components_PizzaList__WEBPACK_IMPORTED_MODULE_1__["default"], {
+  return /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(react__WEBPACK_IMPORTED_MODULE_0___default.a.Fragment, null, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_components_ToppingsFilter__WEBPACK_IMPORTED_MODULE_2__["default"], null), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_components_PizzaList__WEBPACK_IMPORTED_MODULE_1__["default"], {
     pizzas: pizzas
   }));
 }
