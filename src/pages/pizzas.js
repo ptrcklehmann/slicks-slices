@@ -3,12 +3,12 @@ import React from 'react';
 import PizzaList from '../components/PizzaList'
 import ToppingsFilter from '../components/ToppingsFilter';
 
-export default function PizzaPage({ data }) {
+export default function PizzaPage({ data, pageContext }) {
   console.log(data.pizzas)
   const pizzas = data.pizzas.nodes
   return (
     <>
-      <ToppingsFilter />
+      <ToppingsFilter activeTopping={pageContext.topping} />
       <PizzaList pizzas={pizzas} />
     </>
   );
